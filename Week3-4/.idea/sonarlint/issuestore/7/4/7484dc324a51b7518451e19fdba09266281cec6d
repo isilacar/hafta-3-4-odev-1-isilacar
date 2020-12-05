@@ -1,0 +1,19 @@
+
+T
+java:S1135@"2Complete the task associated to this TODO comment.(­â€åøÿÿÿÿ8íµ¨Œã.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(¡Ïç¡úÿÿÿÿ8ù»ğëâ.
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(º™Ú78æ’©ã.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Ö§ªûÿÿÿÿ8ı€öâ.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(¡Ïç¡úÿÿÿÿ8ı€öâ.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(ÚŠşö8Æ‘éŒã.
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¨²›„ã.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¡ùµìıÿÿÿÿ8ı€öâ.
+T
+java:S1128"7Remove this unused import 'java.awt.event.KeyListener'.(ç„›û8™›ôŒã.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Çïb8ı€öâ.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ÀÖĞñ8ı€öâ.
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(¥ÁåÒúÿÿÿÿ8Æ‘éŒã.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(º¶¦èşÿÿÿÿ8ı€öâ.

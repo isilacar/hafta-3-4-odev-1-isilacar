@@ -1,0 +1,21 @@
+
+L
+java:S1128"*Remove this unused import 'java.sql.Time'.(Üå»‰şÿÿÿÿ8ˆéé”ã.
+X	java:S125O"<This block of commented-out lines of code should be removed.(–Õ»‰8ı²“•ã.
+Q
+java:S1128"/Remove this unused import 'java.util.TimeZone'.(à‡Õùÿÿÿÿ8ˆéé”ã.
+v
+java:S12107"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(©£ıŸ8æèıâ.
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8ˆéé”ã.
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(‚Š¹Ñ8ı²“•ã.
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ˆéé”ã.
+D
+java:S2189I""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8•„•ã.
+L
+java:S1128"/Remove this unused import 'java.util.Calendar'.(ÿÛö´8ˆéé”ã.
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8ˆéé”ã.
+c
+java:S2142Q"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ı²“•ã.
